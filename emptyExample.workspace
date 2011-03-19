@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_workspace_file>
+<<<<<<< HEAD
 	<Workspace title="emptyExample">
 		<Project filename="emptyExample.cbp" active="1">
 			<Depends filename="../../../libs/openFrameworksCompiled/project/linux64/libopenFrameworks.cbp" />
 		</Project>
 		<Project filename="../../../libs/openFrameworksCompiled/project/linux64/libopenFrameworks.cbp" />
+=======
+	<Workspace title="Workspace">
+		<Project filename="emptyExample.cbp" active="1">
+			<Depends filename="..\..\..\libs\openFrameworksCompiled\project\win_cb\openFrameworksLib.cbp" />
+		</Project>
+		<Project filename="..\..\..\libs\openFrameworksCompiled\project\win_cb\openFrameworksLib.cbp" />
+>>>>>>> d3db7d8a3a1bc835100a303913c1b16740574a69
 	</Workspace>
 </CodeBlocks_workspace_file>

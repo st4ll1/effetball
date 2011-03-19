@@ -14,7 +14,7 @@
 class Keyboard{
     public:
     Keyboard(){
-        bat1_down, bat1_left, bat1_right, bat1_up = false;
+        bat1_down, bat1_left, bat1_ht, bat1_up = false;
         bat2_down, bat2_left, bat2_right, bat2_up = false;
     }
 
